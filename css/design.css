@@ -1,0 +1,75 @@
+.registro {
+    width: 1000px;
+    background-color: transparent;
+    padding: 100px;
+    margin: auto;   
+    margin-top: 100px;
+    border-radius: 100px;
+    font-family: 'calibri';
+    color: rgb(226, 16, 16);
+    box-shadow: 7px 13px 37px   rgb(0, 0, 0);
+
+}
+.registro h4 {
+    font-size: 22px;
+    margin-bottom: 20px;
+
+}
+.cajaTxt {
+    width: 100%;
+    background: #090909;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #cc0707;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: rgb(65, 9, 234);
+}
+.registro p {
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+    line-height: 40px;
+}
+
+.registro a {
+    color: blue;
+    text-decoration: none;
+}
+
+.registro a:hover {
+    color: rgb(223, 33, 33);
+    text-decoration: underline;
+}
+
+.registro .boton {
+    width: 100%;
+    background: #c802f0;
+    border: none;
+    padding: 25px;
+    color: white;
+    margin: 16px 0;
+    font-size: 16px;
+}
+
+.registro .boton:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+.registroMaster {
+    overflow: hidden;
+    background-image: url(fondoReg.png);
+    
+}
+.dis{
+    color:black;
+    font-size: 80px;
+    background-color: #6f89c2;
+}
+.nav-link{
+    color: rgb(247, 0, 0);
+    font-size: 40px;
+    background-color: black;
+}
